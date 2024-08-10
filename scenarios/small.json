@@ -1,0 +1,15 @@
+[
+  {
+    "l_area": 1.0,
+    "mode_com": "range",
+    "p_com": 1.0,
+    "p_com_keep": 0.8,
+    "coords_bs": [
+      0.0,
+      0.0
+    ],
+    "n": 10,
+    "r_com": 0.3,
+    "n_sl": 5
+  }
+]

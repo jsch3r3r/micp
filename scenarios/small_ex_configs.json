@@ -1,0 +1,55 @@
+{
+  "emicp": {
+    "alg_params": {
+      "r": {
+        "n": {
+          "10": [
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      "fselect_edge": "select_edge_min_gt"
+    }
+  },
+  "emicp_milp": {
+    "alg_params": {
+      "r": {
+        "n": {
+          "10": [
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    }
+  },
+  "micp_milp": {
+    "alg_params": {
+      "r": {
+        "n": {
+          "10": [
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    }
+  },
+  "mmccp": {
+    "alg_params": {
+      "r": {
+        "n": {
+          "10": [
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    }
+  }
+}
