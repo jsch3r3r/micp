@@ -65,3 +65,22 @@ python show_results.py --scenario_name small --create_sols_sub_dir --data_out_di
 | <img src="figures/results.png"  height="300"/> |
 |------------------------------------------------|
 | Results for scenario `small`                   |
+
+## Citation
+
+```
+@article{scherer2022_micp,
+  author={Scherer, Jürgen and Schoellig, Angela P. and Rinner, Bernhard},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Min-Max Vertex Cycle Covers With Connectivity Constraints for Multi-Robot Patrolling}, 
+  year={2022},
+  volume={7},
+  number={4},
+  pages={10152-10159},
+  doi={10.1109/LRA.2022.3193242}
+}
+```
+
+## License
+
+The MIT License
